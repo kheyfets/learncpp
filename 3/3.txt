@@ -1,0 +1,54 @@
+1) Evaluate the following:
+
+a) (5 > 3 && 4 < 8)
+false
+
+b) (4 > 6 && true)
+false
+
+c) (3 >= 3 || false)
+true
+
+d) (true || false) ? 4 : 5
+4
+
+2) Answer the following:
+
+a) 7 / 4
+1
+
+b) 14 % 5
+4
+
+3) Convert the following from binary to decimal:
+
+a) 1101
+1+4+8=13
+
+b) 101110
+2+4+8+32=46
+
+
+4) Convert the following from decimal to binary:
+a) 15
+1111
+
+b) 53
+110101
+
+5) Why should you never do the following:
+
+a) int y = foo(++x, x);
+affecting x and then using it again in the same expression
+
+b) int x = 7 / -2; // (prior to C++11)
+rounding with negatives
+
+c) int x = -5 % 2; // (prior to C++11)
++/- with negatives
+
+d) float x = 0.1 + 0.1; if (x == 0.2) return true; else return false;
+rounding error
+
+e) int x = 3 / 0;
+dividing by zero error

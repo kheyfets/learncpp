@@ -1,0 +1,14 @@
+a)
+off by one
+
+b)
+ptr is constant
+
+c)
+array decays to pointer, length unknown, can't use for-each
+
+d)
+dynamic memory allocation needed
+
+e)
+cannot assign non int to int

@@ -1,0 +1,5 @@
+a) returning variable that is deallocated
+b) no base case
+c) improper overloading, same parameters and name
+d) array too large
+e) could be null pointer or type error

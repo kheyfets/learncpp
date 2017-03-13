@@ -42,6 +42,4 @@ int main() {
     
     Average copy = avg;
     std::cout << copy << '\n';
-    
-    return 0;
 }

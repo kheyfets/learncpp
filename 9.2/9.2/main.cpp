@@ -13,6 +13,8 @@ public:
         n++;
         return *this;
     }
+    
+    // no need for copy method because the built in one will work
 };
 
 std::ostream& operator<< (std::ostream &out, const Average &avg) {

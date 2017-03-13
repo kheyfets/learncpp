@@ -1,0 +1,14 @@
+1a)
+composition
+
+1b)
+dependency
+
+1c)
+aggregation
+
+1d)
+association
+
+1e)
+aggregation

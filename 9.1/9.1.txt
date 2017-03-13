@@ -1,0 +1,11 @@
+1a)
+binary operator => friend function.
+
+1b)
+unary operator => member function.
+
+1c)
+io => friend function.
+
+1d)
+asignment => member function.

@@ -27,7 +27,7 @@ protected:
     : Fruit(name, color) {}
     
 public:
-    Apple(std::string color="red")
+    Apple(std::string color = "red")
     : Fruit("apple", color) {}
 };
 

@@ -1,0 +1,32 @@
+1a)
+Base()
+Derived()
+~Derived()
+~Base()
+
+1b)
+Base()
+Derived()
+Base()
+~Base()
+~Derived()
+~Base()
+
+1c)
+compile error: private member access attempted
+
+1d)
+Base()
+Derived()
+Derived: 5
+~Derived()
+~Base()
+
+1e)
+Base()
+Derived()
+D2()
+Derived: 5
+~D2()
+~Derived()
+~Base()

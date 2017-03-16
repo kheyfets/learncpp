@@ -1,0 +1,17 @@
+1a)
+getName() wasn't virtual
+
+1b)
+cannot override a const with a non-const
+
+1c)
+d is assigned by value
+
+1d)
+cannot derive from constant class
+
+1e)
+abstract functions cannot be instantiated
+
+1f)
+correct output, but memory issues
